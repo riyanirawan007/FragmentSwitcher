@@ -1,7 +1,7 @@
 # FragmentSwitcher
 Simple Helper For Switching Between Android Fragments
 
-## Usage
+## Usage Example
 ```java
 //if you use extra bundle
 Bundle bundle=new Bundle();
